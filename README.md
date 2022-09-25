@@ -2,15 +2,11 @@
 
 - 🌱 I’m currently learning HTML and CSS
 - 🔭 I’m currently graduating in Bachelor of Computer Science at [Federal University of São Carlos](http://bcc.dc.ufscar.br)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: jorgeprj2020@gmail.com
 - ⚡ Fun fact: I’m currently working on my first game: [Counter-Strike based manager game](https://github.com/jorgeprj/GetRightProject)
 
 
-<div align="left">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeprj&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeprj&theme=midnight-purple&show_icons=true"/>
 </div>
