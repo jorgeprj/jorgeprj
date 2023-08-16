@@ -6,10 +6,6 @@
 - ⚡ Fun fact: I’m currently working on my first game: [Counter-Strike based manager game](https://github.com/jorgeprj/CSmanager)
 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeprj&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeprj&layout=compact&theme=midnight-purple&show_icons=true"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="jprj-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="jprj-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -19,7 +15,6 @@
   <img align="center" alt="jprj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jprj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <img align="right" alt="jprj-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/93738600?v=4">
 </div>
   
   ##
@@ -36,7 +31,5 @@
     </a>
 </p>
 
-
-  ![Snake animation](https://github.com/jorgeprj/jorgeprj/blob/output/github-contribution-grid-snake.svg)
 
 </div>
