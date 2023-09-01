@@ -1,7 +1,7 @@
 ## I'am Jorge Pires! <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" width=25> 
 
 - 🌱 I’m currently learning React
-- 🔭 I’m currently graduating in Bachelor of Computer Science at [Federal University of São Carlos](http://bcc.dc.ufscar.br)
+- 🔭 I’m currently graduating in Bachelor of Computer Science at [Federal University of São Carlos](https://www.ufscar.br)
 - 📫 How to reach me: jorgeprj2020@gmail.com
 - ⚡ Fun fact: I’m currently working on my first game: [Counter-Strike based manager game](https://github.com/jorgeprj/CSmanager)
 
