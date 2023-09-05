@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning React
 - 🔭 I’m currently graduating in Bachelor of Computer Science at [Federal University of São Carlos](https://www.ufscar.br)
 - 📫 How to reach me: jorgeprj2020@gmail.com
-- ⚡ Fun fact: I’m currently working on my first game: [Counter-Strike based manager game](https://github.com/jorgeprj/CSmanager)
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jprj-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
