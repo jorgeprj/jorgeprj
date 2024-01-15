@@ -1,32 +1,12 @@
-## I'am Jorge Pires! <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" width=25> 
+# Jorge Pires
 
-- 🌱 I’m currently learning Docker
-- 🔭 I’m currently graduating in Bachelor of Computer Science at [Federal University of São Carlos](https://www.ufscar.br)
-- 📫 How to reach me: jorgeprj2020@gmail.com
+Frontend Developer.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="jprj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="jprj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="jprj-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jprj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jprj-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="jprj-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+[![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Pires-7d00d6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgeprj/)](https://www.linkedin.com/in/jorgeprj/) 
+[![Gmail Badge](https://img.shields.io/badge/-jorgeprj2020@gmail.com-7d00d6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgeprj2020@gmail.com)](mailto:jorgeprj2020@gmail.com)
 
-</div>
-  
-  ##
- 
-<div> 
-    <a href="https://github.com/jorgeprj" target="_blank">
-        <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
-    </a>
-    <a href="https://www.linkedin.com/in/jorgeprj" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
-    </a>
-    <a href="mailto:jorgeprj2020@gmail.com-">
-        <img alt="eMail" src="https://img.shields.io/badge/jorgeprj2020@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-</p>
+Web developer passionate about new technologies.
 
+Currently graduating in computer science at UFSCAR and specializing in front-end development, mainly in React.
 
-</div>
+“Ideas don’t come out fully formed , they only become clearer as you work on them . You just have to get started.”
